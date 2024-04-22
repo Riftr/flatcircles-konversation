@@ -1,2 +1,2 @@
-# kde-stuff
-Things I make for KDE
+# Flatcircles 
+Nicklist theme for Konversation
